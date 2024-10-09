@@ -1,0 +1,30 @@
+.black {
+    color: rgb(255, 59, 59);
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .blue {
+    color: rgb(92, 92, 255);
+    font-size: 1.2rem;
+    line-height: 1.8;
+    text-align: justify;
+  }
+  
+  .green {
+    list-style-type: disc;        
+    padding-left: 20px;           
+    color: red;                 
+    margin-top: 20px;
+  }
+  
+  .green li {
+    font-size: 1.1rem;
+    margin-bottom: 15px;         
+  }
+  
+  .green li b {
+    color: #5ba6f1;              
+  }
+  
